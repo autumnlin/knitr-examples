@@ -2,6 +2,7 @@
 \usepackage{float}    % for fig.pos='H'
 \usepackage{rotfloat} % for sidewaysfigure
 \usepackage{subfig}   % for subfigure
+\usepackage{caption}
 
 \title{Graphics Options in knitr}
 \author{Yihui Xie}
